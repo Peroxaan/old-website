@@ -20,9 +20,11 @@
 }
 
 .bg-light {
+	background-color: #E8E8E8;
+}
+.navbar2-light {
 	background-color: #ffffff;
 }
-
 .card {
     background-color: #ffffff;
     color: #333333;
@@ -43,6 +45,9 @@
 @media (prefers-color-scheme: dark) {
      body {
          background-color: #000000;
+     }
+     .navbar2-light {
+         background-color: #181818;
      }
     .bar-dark {
         background-color: #343a40;
