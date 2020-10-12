@@ -25,7 +25,7 @@
 
 .card {
     background-color: #ffffff;
-    color: #000000;
+    color: #333333;
 }
 
 .navbar-dark .navbar-nav .nav-link {
@@ -40,15 +40,27 @@
     background-color: red;
     border-color: red;
 }
-
 @media (prefers-color-scheme: dark) {
-
+     body {
+         background-color: #000000;
+     }
     .bar-dark {
         background-color: #343a40;
     }
-
+    .solid {
+        border: none;
+        border-bottom: 3.25px solid #eb6fa5; 
+        border-top: 3.25px solid #eb6fa5;
+        clear: none;
+        height: 7;
+        width: 82%;
+        align-content: center;
+        margin: auto;
+        background-color: #000000;
+        opacity: 0;
+    }
     .bg-dark {
-        background-color: #343a40;
+        background-color: #000000;
     }
 
     .text-white {
@@ -56,11 +68,11 @@
     }
     
     .bg-light {
-        background-color: #535b63;
+        background-color: #000000;
     }
 
     .card {
-        /* background-color: #535b63; */
+        background-color: #181818;
         color: #ffffff;
     }
 

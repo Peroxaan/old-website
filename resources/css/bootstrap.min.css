@@ -2179,7 +2179,7 @@ a.btn.disabled, fieldset:disabled a.btn {
 	color: #6c757d;
 	background-color: transparent;
 	background-image: none;
-	border-color: #6c757d
+	border-color: #e83e8c
 }
 .btn-outline-secondary:hover {
 	color: #fff;
@@ -2193,12 +2193,12 @@ a.btn.disabled, fieldset:disabled a.btn {
 		color: #ffffff;
 		background-color: transparent;
 		background-image: none;
-		border-color: #ffffff
+		border-color: #e83e8c
 	}
 	.btn-outline-secondary:hover {
-		color: #333A40;
+		color: #e83e8c;
 		background-color: #ffffff;
-		border-color: #ffffff
+		border-color: #e83e8c
 	}
 
 }
@@ -6093,7 +6093,7 @@ a.bg-danger:focus, a.bg-danger:hover, button.bg-danger:focus, button.bg-danger:h
 	box-shadow: 0 .5rem 1rem rgba(0, 0, 0, .15)!important
 }
 .shadow-lg {
-	box-shadow: 0 1rem 3rem rgba(0, 0, 0, .175)!important
+	box-shadow: 0 1rem 3rem rgba(140, 140, 140, .0)!important
 }
 .shadow-none {
 	box-shadow: none!important
