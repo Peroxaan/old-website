@@ -1,0 +1,8 @@
+header {
+	padding: 134px 0 80px;
+}
+@media (min-width: 992px) {
+	header {
+		padding: 156px 0 80px;
+	}
+}
