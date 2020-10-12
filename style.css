@@ -40,13 +40,25 @@
     background-color: red;
     border-color: red;
 }
-
 @media (prefers-color-scheme: dark) {
-
+     body {
+         background-color: #000000;
+     }
     .bar-dark {
         background-color: #343a40;
     }
-
+    .solid {
+        border: none;
+        border-bottom: 3.25px solid #eb6fa5; 
+        border-top: 3.25px solid #eb6fa5;
+        clear: none;
+        height: 7;
+        width: 82%;
+        align-content: center;
+        margin: auto;
+        background-color: #000000;
+        opacity: 0;
+    }
     .bg-dark {
         background-color: #000000;
     }
