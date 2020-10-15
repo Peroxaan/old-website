@@ -52,6 +52,116 @@
     .bar-dark {
         background-color: #343a40;
     }
+    .aerocard {
+        display: inline-block;
+        border: 1.5px solid #FF688A;
+        width: 6.5em;
+        text-align: center;
+        border-radius: 5.9px;
+        background-color: #FF688A;
+        color: white;
+        font-weight: 600;
+        text-shadow: #ffffff 0.5px 0 10px;
+        transition: 0.6s;
+    }
+    .aerocard:hover {
+        background-color: #ffffff;
+        color: #FF688A;
+        text-decoration: none;
+        transition: 0.6s;
+        text-shadow: #FF688A 1px 0 10px;
+    }
+    .azurcard {
+        display: inline-block;
+        border: 1.5px solid #394DE6;
+        width: 6.5em;
+        text-align: center;
+        border-radius: 5.9px;
+        background-color: #394DE6;
+        color: white;
+        font-weight: 600;
+        text-shadow: #ffffff 1px 0 10px;
+        transition: 0.6s;
+    }
+    .azurcard:hover {
+        background-color: #ffffff;
+        color: #394DE6;
+        text-decoration: none;
+        transition: 0.6s;
+        text-shadow: #394DE6 1px 0 10px;
+    }
+    .clickercard {
+        display: inline-block;
+        border: 1.5px solid #FFAE00;
+        width: 6.5em;
+        text-align: center;
+        border-radius: 5.9px;
+        background-color: #FFAE00;
+        color: white;
+        font-weight: 600;
+        text-shadow: #ffffff 0.5px 0 10px;
+    }
+    .clickercard:hover {
+        background-color: #ffffff;
+        color: #FFAE00;
+        text-decoration: none;
+        transition: 0.6s;
+        text-shadow: #FFAE00 1px 0 10px;
+    }
+    .electrocard {
+        display: inline-block;
+        border: 1.5px solid #C987BD;
+        width: 6.5em;
+        text-align: center;
+        border-radius: 5.9px;
+        background-color: #C987BD;
+        color: white;
+        font-weight: 600;
+        text-shadow: #ffffff 0.5px 0 10px;
+    }
+    .electrocard:hover {
+        background-color: #ffffff;
+        color: #C987BD;
+        text-decoration: none;
+        transition: 0.6s;
+        text-shadow: #C987BD 1px 0 10px;
+    }
+    .taloncard {
+        display: inline-block;
+        border: 1.5px solid #BB22B9;
+        width: 6.5em;
+        text-align: center;
+        border-radius: 5.9px;
+        background-color: #BB22B9;
+        color: white;
+        font-weight: 600;
+        text-shadow: #ffffff 0.5px 0 10px;
+    }
+    .taloncard:hover {
+        background-color: #ffffff;
+        color: #BB22B9;
+        text-decoration: none;
+        transition: 0.6s;
+        text-shadow: #BB22B9 1px 0 10px;
+    }
+    .rubycard {
+        display: inline-block;
+        border: 1.5px solid #B00909;
+        width: 6.5em;
+        text-align: center;
+        border-radius: 5.9px;
+        background-color: #B00909;
+        color: white;
+        font-weight: 600;
+        text-shadow: #ffffff 0.5px 0 10px;
+    }
+    .rubycard:hover {
+        background-color: #ffffff;
+        color: #B00909;
+        text-decoration: none;
+        transition: 0.6s;
+        text-shadow: #B00909 1px 0 10px;
+    }
     .solid {
         border: none;
         border-bottom: 3.25px solid #eb6fa5; 
