@@ -1,2 +1,2 @@
 # Peroxaan.com Website
-If you'd like to contribute, you can.
+It's open source so anyone can contribute! However we may redesign soon so I don't recommend it
