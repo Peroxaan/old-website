@@ -42,6 +42,14 @@
     background-color: red;
     border-color: red;
 }
+#web-80x15-badge {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 8px;
+    width: 80px;
+    height: 15px;
+}
 @media (prefers-color-scheme: dark) {
      body {
          background-color: #000000;
